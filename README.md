@@ -1,1 +1,2 @@
-# Burger-recipie
+# Burger
+# Burger Recipie
